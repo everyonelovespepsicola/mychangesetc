@@ -1,0 +1,1 @@
+# systemctl restart systemd-logind.service
