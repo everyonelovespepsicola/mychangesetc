@@ -1,1 +1,3 @@
 # systemctl restart systemd-logind.service
+
+apt remove pam_cracklib
